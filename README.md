@@ -1,3 +1,5 @@
+# :white_check_mark: SUCCESS :white_check_mark:
+
 # Role-Playing Game
 
 Welcome to Role-Playing Game on Exercism's Rust Track.
